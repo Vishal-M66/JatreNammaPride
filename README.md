@@ -25,15 +25,15 @@ Google Gemini API
 MVVM Architecture
 JSON Parsing
 
-
 📱 Application Modules
+---
 Splash Screen
 Home Dashboard
 AI Guide Assistant
 Cultural Information Section
 Location and Navigation Features
 Recommendation System
----
+
 
 🚀 Installation Steps
 1. Clone Repository
