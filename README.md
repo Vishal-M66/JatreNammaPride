@@ -1,9 +1,10 @@
 JatreNammaPride 🌟
-
+---
 JatreNammaPride is an Android-based cultural assistance application developed to digitally showcase Karnataka’s traditional fairs and local heritage. The application combines modern mobile technology with regional culture to provide users with an engaging and informative experience.
 The app includes smart AI-powered guidance, multilingual interaction, festival information, and interactive user features designed to improve accessibility and user engagement.
----
+
 ✨ Key Features
+---
 Smart AI-based cultural assistant
 Festival and heritage information access
 Kannada and English language support
@@ -12,9 +13,10 @@ Interactive user navigation experience
 Real-time Firebase integration
 Location-based support features
 Simple and clean user experience
----
+
 
 🛠 Technologies Used
+---
 Kotlin
 Android Studio
 Jetpack Compose
@@ -22,7 +24,7 @@ Firebase Realtime Database
 Google Gemini API
 MVVM Architecture
 JSON Parsing
----
+
 
 📱 Application Modules
 Splash Screen
