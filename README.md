@@ -17,13 +17,13 @@ Simple and clean user experience
 
 🛠 Technologies Used
 ---
-Kotlin
-Android Studio
-Jetpack Compose
-Firebase Realtime Database
-Google Gemini API
-MVVM Architecture
-JSON Parsing
+1.Kotlin
+2.Android Studio
+3.Jetpack Compose
+4.Firebase Realtime Database
+5.Google Gemini API
+6.MVVM Architecture
+7.JSON Parsing
 
 📱 Application Modules
 ---
@@ -36,6 +36,7 @@ Recommendation System
 
 
 🚀 Installation Steps
+---
 1. Clone Repository
 git clone https://github.com/your-username/JatreNammaPride.git
 
@@ -56,8 +57,8 @@ Connect an Android device or emulator and run the project.
 ---
 
 📌 Purpose of the Project
-
-The objective of this project is to preserve and promote Karnataka’s traditional fairs and cultural identity through a modern Android application platform that is accessible to younger generations.
 ---
+The objective of this project is to preserve and promote Karnataka’s traditional fairs and cultural identity through a modern Android application platform that is accessible to younger generations.
+
 
 *Project Developed By Vishal M*
