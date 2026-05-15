@@ -18,11 +18,17 @@ Simple and clean user experience
 🛠 Technologies Used
 ---
 1.Kotlin
+
 2.Android Studio
+
 3.Jetpack Compose
+
 4.Firebase Realtime Database
+
 5.Google Gemini API
+
 6.MVVM Architecture
+
 7.JSON Parsing
 
 📱 Application Modules
