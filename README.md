@@ -34,10 +34,15 @@ Simple and clean user experience
 📱 Application Modules
 ---
 Splash Screen
+
 Home Dashboard
+
 AI Guide Assistant
+
 Cultural Information Section
+
 Location and Navigation Features
+
 Recommendation System
 
 
